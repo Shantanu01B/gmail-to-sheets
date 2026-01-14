@@ -15,7 +15,7 @@ The automation extracts important email details such as sender, subject, date, a
 
 ## 🎥 Demo Video
 
-Demo video link (2–3 minutes):
+Demo video link (2–3 minutes):https://drive.google.com/file/d/1Fl439FDL4uPNYeDYDeT5N9vBgyHxecVr/view?usp=sharing
 
 
 ## 🎯 Objective

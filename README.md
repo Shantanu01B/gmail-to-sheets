@@ -13,6 +13,11 @@ The automation extracts important email details such as sender, subject, date, a
 
 ---
 
+## 🎥 Demo Video
+
+Demo video link (2–3 minutes):
+
+
 ## 🎯 Objective
 
 For each qualifying email, the following fields are captured and stored in Google Sheets:
@@ -179,7 +184,7 @@ The email content is truncated to a safe length before insertion, ensuring relia
 
 ⚠️ Limitations
 
-Very large emails are truncated to fit Google Sheets limits
+Very large emails are truncated to fit Google Sheets' limits
 
 Only unread emails are processed
 

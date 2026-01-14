@@ -80,9 +80,6 @@ gmail-to-sheets/
 ├── .gitignore
 └── README.md
 
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
